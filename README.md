@@ -28,13 +28,9 @@ SEO Optimized: The website is optimized for search engines to improve visibility
 Modern UI: Clean and modern user interface for a professional look.
 Installation
 To set up the project locally, follow these steps:
+Live Demo : https://aishwaryg.github.io/Digital-Marketing/
 
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/digital-marketing-agency.git
-Navigate to the project directory:
 
 bash
 Copy code
